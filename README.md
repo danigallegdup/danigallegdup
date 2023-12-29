@@ -1,5 +1,22 @@
-### Hi there 👋
+<link rel="stylesheet" type="text/css" href="./styles/styles.css">
 
+![Alt text](img/project.png)
+## Daniela Gallegos Dupuis
+
+Hi, I am Dani, a Computer Science student at the University of Victoria. Whether it is writing a simple python program to do my homework, collaborating worldwide, or challenging myself with an open-ended school assignment, computer science opened a whole world of possibilities since print("Hello World") 
+
+
+- [![website](img/professional.png)](https://danigallegdup.github.io/)
+
+-  [![Resume](img/new_Icons/resume.png)](./Daniela's%20Resume.pdf) 
+
+- [![LinkedIn](img/new_Icons/linkedIn.png)](https://www.linkedin.com/in/danigallegdup/)
+
+
+
+- [![Email](img/new_Icons/email.png)](mailto:danigallegdup@gmail.com)
+
+- [![Instagram](img/new_Icons/insta.png)](https://www.instagram.com/_dani.gd/)
 
 
 <!--
