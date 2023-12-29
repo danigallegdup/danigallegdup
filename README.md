@@ -11,8 +11,6 @@ Hi, I am Dani, a Computer Science student at the University of Victoria. Whether
 
 - [LinkedIn](https://www.linkedin.com/in/danigallegdup/)
 
-- [Email]((mailto:danigallegdup@gmail.com))
-
 - [Instagram](https://www.instagram.com/_dani.gd/)
 
 
