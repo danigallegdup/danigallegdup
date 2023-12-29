@@ -1,6 +1,8 @@
-
-![Alt text](img/project.png)
+<!-- 
+![Alt text](img/project.png) -->
 ## Daniela Gallegos Dupuis
+![Alt text](img/grid-snake.svg)
+
 
 Hi, I am Dani, a Computer Science student at the University of Victoria. Whether it is writing a simple python program to do my homework, collaborating worldwide, or challenging myself with an open-ended school assignment, computer science opened a whole world of possibilities since print("Hello World") 
 
