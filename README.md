@@ -7,13 +7,6 @@
  Computer Science student at the University of Victoria. Whether it is writing a simple python program to do my homework, collaborating worldwide, or challenging myself with an open-ended school assignment, computer science opened a whole world of possibilities since print("Hello World") 
 
 
-- [website](https://danigallegdup.github.io/)
-
-- [Resume](./Daniela's%20Resume.pdf) 
-
-- [LinkedIn](https://www.linkedin.com/in/danigallegdup/)
-
-- [Instagram](https://www.instagram.com/_dani.gd/)
 
 
 <!--
