@@ -1,6 +1,6 @@
 <!-- 
 ![Alt text](img/project.png) -->
-## Hi, I am Dani
+## ¡Encantada, Soy Dani!:
 ![Alt text](img/grid-snake.svg)
 
 
