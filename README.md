@@ -1,6 +1,9 @@
 <!-- 
 ![Alt text](img/project.png) -->
 ## ¡Encantada, Soy Dani!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigallegdup)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Alt text](img/grid-snake.svg)
 
 
