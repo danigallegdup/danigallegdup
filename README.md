@@ -2,7 +2,7 @@
 ![Alt text](img/project.png) -->
 ## ¡Encantada, Soy Dani!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigallegdup&show_icons=true&theme=radical)
+
 
 ![Alt text](img/grid-snake.svg)
 
