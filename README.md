@@ -2,7 +2,12 @@
 ![Alt text](img/project.png) -->
 ## ¡Encantada, Soy Dani!
 
-
+<div align="center">
+ <h3 align="left"></h3>
+ <a href="https://github.com/danigallegdup">
+  <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danigallegdup&theme=merko" alt="danigallegdup"/>
+ </a>
+</div>
 
 ![Alt text](img/grid-snake.svg)
 
