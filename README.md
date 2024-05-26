@@ -8,17 +8,15 @@ Aa a Computer Science student at the University of Victoria. Whether it is writi
 <div align="center">
  <h3 align="left"></h3>
  <a href="https://github.com/danigallegdup">
-  <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danigallegdup&theme=merko" alt="danigallegdup"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigallegdup&layout=compact&langs_count=7&theme=merko&hide=jupyter%20notebook,makefile,cmake"/>
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danigallegdup&theme=merko" alt="danigallegdup">
+  <img height="120em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danigallegdup&theme=merko" alt="danigallegdup"/>
  </a>
 </div>
 
 <div align="center">
  <h3 align="left"></h3>
  <a href="https://github.com/danigallegdup">
-  <img height="90em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigallegdup&layout=compact&langs_count=7&theme=merko&hide=jupyter%20notebook,makefile,cmake"/>
-  <img height="90em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danigallegdup&theme=merko" alt="danigallegdup">
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigallegdup&layout=compact&langs_count=7&theme=merko&hide=jupyter%20notebook,makefile,cmake"/>
+  <img height="100em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danigallegdup&theme=merko" alt="danigallegdup">
  </a>
 </div>
 
