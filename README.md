@@ -4,7 +4,11 @@
 
 ![Alt text](img/grid-snake.svg)
 
-Aa a Computer Science student at the University of Victoria. Whether it is writing a simple python program to do my homework, collaborating worldwide, or challenging myself with an open-ended school assignment, computer science opened a whole world of possibilities since print("Hello World") 
+My primary interests lie in software development, machine learning, and enhancing productivity through innovative solutions. I'm always eager to learn new technologies and collaborate on exciting projects.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danigallegdup/) and check out my [personal website](https://danigallegdup.github.io/) for more about my work and projects.
+
+
 
 <div align="left">
  <h3 align="left"></h3>
