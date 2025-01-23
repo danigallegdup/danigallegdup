@@ -2,7 +2,6 @@
 ![Alt text](img/project.png) -->
 ## ¡Encantada, Soy Dani!
 
-![Alt text](img/grid-snake.svg)
 
 My primary interests lie in software development, machine learning, and enhancing productivity through innovative solutions. I'm always eager to learn new technologies and collaborate on exciting projects.
 
@@ -20,6 +19,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danigalle
  </a>
 </div>
 
+![Alt text](img/grid-snake.svg)
 
 
 
