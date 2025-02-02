@@ -14,7 +14,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danigalle
  <a href="https://github.com/danigallegdup">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigallegdup&layout=compact&langs_count=15&theme=merko&hide=HTML,Dockerfile,CSS,makefile,cmake,shell"/>
 
-  ![Dani's Github Stats](https://github-readme-stats.vercel.app/api?username=danigallegdup&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true)
+  ![Dani's Github Stats](https://github-readme-stats.vercel.app/api?username=danigallegdup&show_icons=true&count_private=true&theme=tokyonight&hide_rank=false)
 </div>
 
 ![Alt text](img/grid-snake.svg)
