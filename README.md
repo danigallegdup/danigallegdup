@@ -7,10 +7,6 @@ My primary interests lie in software development, machine learning, and enhancin
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danigallegdup/) and check out my [personal website](https://danigallegdup.github.io/) for more about my work and projects.
 
-[![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigallegdup&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
