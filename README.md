@@ -10,14 +10,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danigalle
 
 
 
-<div align="left">
- <h3 align="left"></h3>
- <a href="https://github.com/danigallegdup">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigallegdup&layout=compact&langs_count=15&theme=merko&hide=HTML,Dockerfile,CSS,makefile,cmake,shell"/>
-</div>
-
-
-
-
 
 
