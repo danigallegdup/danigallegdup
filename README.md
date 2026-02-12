@@ -1,6 +1,6 @@
 <!-- 
 ![Alt text](img/project.png) -->
-## ¡Encantada, Soy Dani!
+## ¡Encantada, Soy Daniela!
 
 
 My primary interests lie in software development, machine learning, and enhancing productivity through innovative solutions. I'm always eager to learn new technologies and collaborate on exciting projects.
